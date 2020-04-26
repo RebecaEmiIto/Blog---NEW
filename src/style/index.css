@@ -1,0 +1,17 @@
+*{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
+header{
+    font-style: italic;
+    font-family: monospace ;
+}
+
+h1{
+    font-style: initial;
+}
+
+.nav-item{
+    margin-right: 1.5rem;
+    text-decoration: rgb(146, 30, 30);
+}
